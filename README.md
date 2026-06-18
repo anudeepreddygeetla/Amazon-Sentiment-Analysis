@@ -1,4 +1,6 @@
 # Amazon Product Review — Sentiment Analysis
+## 🚀 Live Demo
+👉 [Try the app here](https://huggingface.co/spaces/GeetlaAnudeepReddy/Sentiment-Analysis)
 ### Comparing RNN, LSTM, GRU, BiLSTM, and BiGRU from Scratch
 
 ---
